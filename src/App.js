@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import FootballTeam from './components/FootballTeam/FootballTeam'
+import FootballTeam from './components/FootballTeam/FootballTeam';
 
 function App() {
   return (
