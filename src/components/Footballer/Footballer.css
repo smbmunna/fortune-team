@@ -1,0 +1,21 @@
+.container{
+    margin: 50px -35px;
+}
+
+.footballer-info{    
+    border: 10px solid lightslategray;
+    width: 300px;
+    padding: 10px;
+    margin: 25px;
+}
+.player-img img{    
+    border: 1px solid blue;
+    border-radius: 15px;    
+    width: 80%;
+}
+.player-img{
+    margin-bottom: 20px;
+}
+.select-btn{
+    margin-top: 10px;
+}

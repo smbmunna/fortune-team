@@ -1,0 +1,96 @@
+[{
+    "id": 1,
+    "name": "Jordi Alba",
+    "picture": "https://i.ibb.co/DwqG1t8/19-alba.png",
+    "salary": 18552
+  }, {
+    "id": 2,
+    "name": "Sergio Busquets",
+    "picture": "https://i.ibb.co/dL3xqPZ/18-Busi.png",
+    "salary": 36297
+  }, {
+    "id": 3,
+    "name": "Ferran Torres",
+    "picture": "https://i.ibb.co/5TGJPhd/17-torres.png",
+    "salary": 32315
+  }, {
+    "id": 4,
+    "name": "Pablo Torre",
+    "picture": "https://i.ibb.co/ynKMnQz/16-torre.png",
+    "salary": 31582
+  }, {
+    "id": 5,
+    "name": "Ronald Araujo",
+    "picture": "https://i.ibb.co/ZBZ9cRN/15-araujo.png",
+    "salary": 10807
+  }, {
+    "id": 6,
+    "name": "Gerrard Pique",
+    "picture": "https://i.ibb.co/6PdXRWC/14-Pique.png",
+    "salary": 28725
+  }, {
+    "id": 7,
+    "name": "Andreas Christensen",
+    "picture": "https://i.ibb.co/x8pGMYd/13-christensen.png",
+    "salary": 33173
+  }, {
+    "id": 8,
+    "name": "Hector Bellerin",
+    "picture": "https://i.ibb.co/rv2F8B0/11-hector.png",
+    "salary": 13289
+  }, {
+    "id": 9,
+    "name": "Ansu Fati",
+    "picture": "https://i.ibb.co/4J9BYjP/10-fati.png",
+    "salary": 17967
+  }, {
+    "id": 10,
+    "name": "Marcos Alonso",
+    "picture": "https://i.ibb.co/HXp0TMc/9-alonso.png",
+    "salary": 10046
+  }, {
+    "id": 11,
+    "name": "Memphis Depay",
+    "picture": "https://i.ibb.co/wBcJrW6/8-memphis.png",
+    "salary": 13374
+  }, {
+    "id": 12,
+    "name": "Osmane Dembelle",
+    "picture": "https://i.ibb.co/PTBbCs5/7-dembelle.png",
+    "salary": 22537
+  }, {
+    "id": 13,
+    "name": "Frankie De Jong",
+    "picture": "https://i.ibb.co/9hrXQ9b/6-Frankie.png",
+    "salary": 20500
+  }, {
+    "id": 14,
+    "name": "Jules Kounde",
+    "picture": "https://i.ibb.co/VS1x4Fj/5-Kounde.png",
+    "salary": 35434
+  }, {
+    "id": 15,
+    "name": "Pedri",
+    "picture": "https://i.ibb.co/kqb1VjS/4-pedri.png",
+    "salary": 18278
+  }, {
+    "id": 16,
+    "name": "Gavi",
+    "picture": "https://i.ibb.co/TPr9qRR/2-gavi.png",
+    "salary": 10299
+  }, {
+    "id": 17,
+    "name": "Raphinha",
+    "picture": "https://i.ibb.co/Lgs8Jqv/3-raphinha.png",
+    "salary": 9278
+  }, {
+    "id": 18,
+    "name": "Robert Lewandoski",
+    "picture": "https://i.ibb.co/8Y1pTfM/lewa.jpg",
+    "salary": 43278
+  }
+
+
+]
+
+  
