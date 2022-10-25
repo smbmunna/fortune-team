@@ -19,7 +19,7 @@ const PlayerCart = (props) => {
                 {
 
                     players.map((player, index) => {
-                        return <p><small>{index + 1 + '. ' + player.name}</small></p>
+                        return <p><small>{index + 1 + '. ' + player.name +': '} <FontAwesomeIcon icon={faSterlingSign}/> { player.salary}</small></p>
                     })
                 }
             </div>
